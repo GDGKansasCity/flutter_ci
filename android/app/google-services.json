@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214296433005",
+    "project_id": "gdgkc-flutter-ci-test",
+    "storage_bucket": "gdgkc-flutter-ci-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214296433005:android:da60b8f2a10fe9e1df4a64",
+        "android_client_info": {
+          "package_name": "com.gdgkansascity.flutter_ci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214296433005-bogec0cpi98bcmp0p28gdh53cn1h3fh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgkansascity.flutter_ci",
+            "certificate_hash": "2f8ea954585649e51b8adf42c7d91af093a7ef11"
+          }
+        },
+        {
+          "client_id": "214296433005-rsgg2fm044jsh0m0rkpec4ql13gvm0k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2cCMfjQUL846dFu8hGy5JEu7nvwMIlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214296433005-rsgg2fm044jsh0m0rkpec4ql13gvm0k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
